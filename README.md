@@ -36,4 +36,4 @@ Email [maxim.salnikov@microsoft.com](mailto:maxim.salnikov@microsoft.com) your n
 Email [maxim.salnikov@microsoft.com](mailto:maxim.salnikov@microsoft.com) the url YOUR-APP-NAME.azurewebsites.net of the hosted application to get further instructions
 
 ### Good luck with the challenges!
-Any questions? Email [maxim.salnikov@microsoft.com](mailto:maxim.salnikov@microsoft.com)
+Any questions? Find Maxim Salnikov on JZ21 Slack or email [maxim.salnikov@microsoft.com](mailto:maxim.salnikov@microsoft.com)
