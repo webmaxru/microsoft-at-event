@@ -6,7 +6,7 @@
 
 ## Challenges and prizes!
 
-Start and complete a "learning by doing" challenge we prepared for you and return to this page to learn how to claim your prize(s).
+Start and complete a "learning by doing" challenge we prepared for you and return to this page to learn how to claim your prize.
 
 ### [Booster challenge: Deploy a web app to Azure to get a prize!](http://aka.ms/learn-cloud)
 
