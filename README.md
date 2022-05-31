@@ -4,13 +4,15 @@
     <img src="assets/conference.jpg" width="600">
 </p>
 
-## Challenges and prizes!
+## 1. [NIC challenge: Deploy a web app to Azure to get a prize!](http://aka.ms/learn-cloud)
 
-Start and complete a "learning by doing" challenge we prepared for you and return to this page to learn how to claim your prize.
+Start and complete a "learning by doing" challenge we prepared for you and return to the Microsoft area to get your prize.
 
-### [NIC challenge: Deploy a web app to Azure to get a prize!](http://aka.ms/learn-cloud)
+<p align="center">
+    <img src="assets/sportbag-blue.png" width="300">
+</p>
 
-1. Click "Join the challenge"
+1. Open the link above and click "Join the challenge"
 2. Log in using Microsoft account
 3. Create your free MS Learn profile (if you don't have it yet)
 4. Click "Start learning"
@@ -21,5 +23,19 @@ To get the prize, return to Microsoft booth and demonstrate:
 - your name on the [Leaderboard](http://aka.ms/learn-cloud) AND
 - the url YOUR-APP-NAME.azurewebsites.net of the hosted application
 
-### Good luck with the challenge!
+**How to run similar challenge for your company?**
+Ask Maxim Salnikov by email [maxim.salnikov@microsoft.com](mailto:maxim.salnikov@microsoft.com)
+
+## 2. [Claim your Azure Heroes digital badge to get an eco-friendly gift](http://aka.ms/digital-badge)
+
+<p align="center">
+    <img src="assets/straw.png" width="300">
+</p>
+
+1.	Open the link above on your mobile device
+2.	Follow the instructions on how to install a mobile wallet, and claim your badge
+3.	Take your prize in the Microsoft area!
+
+
+### Good luck with the challenges!
 Any questions? Message Maxim Salnikov on [LinkedIn](https://linkedin.com/in/webmax) or email [maxim.salnikov@microsoft.com](mailto:maxim.salnikov@microsoft.com)
