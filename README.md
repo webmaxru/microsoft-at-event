@@ -11,7 +11,7 @@ To get cool prizes, join one or both of the learning challenges. It will take on
 Start and complete a "learning by doing" guide about hosting your app on Azure, and return to the Microsoft area to get your prize.
 
 <p align="center">
-    <img src="assets/sportbag-blue.png" width="300">
+    <img src="assets/backpack-oss.png" width="300">
 </p>
 
 1. Open the link above and click "Join the challenge"
@@ -31,10 +31,6 @@ Ask Maxim Salnikov by email [maxim.salnikov@microsoft.com](mailto:maxim.salnikov
 ## 2. [JavaZone challenge #2: Learn about choosing right Azure service for Java app, and get a prize! You can do it on your phone.](https://docs.microsoft.com/en-gb/learn/challenges?ns-enrollment-type=Collection&ns-enrollment-id=yk5esdzo2k1g3q&id=7ce66299-a51e-47d4-a3de-4459b98fcf0b&ocid=AID3052179)
 
 Start and complete the guide about Azure service for Java app, and return to the Microsoft area to get your prize.
-
-<p align="center">
-    <img src="assets/sportbag-blue.png" width="300">
-</p>
 
 1. Open the link above and click "Join the challenge"
 2. Log in using Microsoft account
