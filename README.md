@@ -1,12 +1,18 @@
-# Welcome to Microsoft booth at Telenorfestival!
+# Welcome to Microsoft booth at JavaZone!
+
+To get cool prizes, join one or both of the learning challenges. It will take only a few minutes to complete them!
 
 <p align="center">
     <img src="assets/conference.jpg" width="600">
 </p>
 
-## 1. [Telenor: Deploy a web app to Azure to get a prize!](https://docs.microsoft.com/en-us/learn/challenges?id=6a9cb62d-adbd-49c8-832e-9b839a5034bd)
+## 1. [JavaZone challenge #1: Deploy a web app to Azure using guide, and get a backpack! Using laptop recommended.](https://docs.microsoft.com/en-gb/learn/challenges?ns-enrollment-type=Collection&ns-enrollment-id=yk5esdzo2k1g3q&id=ad50e385-2073-4e25-9267-8063f587ba99&ocid=AID3052179)
 
-Start and complete a "learning by doing" challenge we prepared for you and return to the Microsoft area by 15:30 to get your prize.
+Start and complete a "learning by doing" guide about hosting your app on Azure, and return to the Microsoft area to get your prize.
+
+<p align="center">
+    <img src="assets/sportbag-blue.png" width="300">
+</p>
 
 1. Open the link above and click "Join the challenge"
 2. Log in using Microsoft account
@@ -15,18 +21,32 @@ Start and complete a "learning by doing" challenge we prepared for you and retur
 5. Follow the steps to get your web app hosted on Azure. You can choose between deploying a demo app written with C#, NodeJS, Java, or Python (you don't need to create the app itself). There is Azure sandbox offered for this exercise, so you will host this app FOR FREE.
 
 **How to claim prize?**
-To get the prize, return to Microsoft booth by 15:30 and demonstrate:
-- your name on the [Leaderboard](https://docs.microsoft.com/en-us/learn/challenges?id=6a9cb62d-adbd-49c8-832e-9b839a5034bd) AND
+To get the prize, return to Microsoft booth and demonstrate:
+- your name on the [Leaderboard](https://docs.microsoft.com/en-gb/learn/challenges?ns-enrollment-type=Collection&ns-enrollment-id=yk5esdzo2k1g3q&id=ad50e385-2073-4e25-9267-8063f587ba99&ocid=AID3052179) AND
 - the url YOUR-APP-NAME.azurewebsites.net of the hosted application
 
-**How to run similar challenge for your team in Telenor?**
+**How to run similar challenge for your company?**
 Ask Maxim Salnikov by email [maxim.salnikov@microsoft.com](mailto:maxim.salnikov@microsoft.com)
 
-## 2. [Claim your Azure Heroes digital badge](https://jumpnet.beam.enjin.io/claim/1d514ece7e79561232403d8a360986ee)
+## 2. [JavaZone challenge #2: Learn about choosing right Azure service for Java app, and get a prize! You can do it on your phone.](https://docs.microsoft.com/en-gb/learn/challenges?ns-enrollment-type=Collection&ns-enrollment-id=yk5esdzo2k1g3q&id=7ce66299-a51e-47d4-a3de-4459b98fcf0b&ocid=AID3052179)
 
-1.	Open the link above on your mobile device
-2.	Follow the instructions on how to install a mobile wallet, and claim your badge
-3.	Take your prize in the Microsoft area!
+Start and complete the guide about Azure service for Java app, and return to the Microsoft area to get your prize.
+
+<p align="center">
+    <img src="assets/sportbag-blue.png" width="300">
+</p>
+
+1. Open the link above and click "Join the challenge"
+2. Log in using Microsoft account
+3. Create your free MS Learn profile (if you don't have it yet)
+4. Click "Start learning"
+5. Go through all pages of the guide (it will take less than 10 minutes, you can use your phone)
+
+**How to claim prize?**
+To get the prize, return to Microsoft booth and demonstrate your name on the [Leaderboard](https://docs.microsoft.com/en-gb/learn/challenges?ns-enrollment-type=Collection&ns-enrollment-id=yk5esdzo2k1g3q&id=7ce66299-a51e-47d4-a3de-4459b98fcf0b&ocid=AID3052179)
+
+**How to run similar challenge for your company?**
+Ask Maxim Salnikov by email [maxim.salnikov@microsoft.com](mailto:maxim.salnikov@microsoft.com)
 
 
 ### Good luck with the challenges!
